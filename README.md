@@ -1,1 +1,10 @@
-# Pm_kelompok_12
+PROYEK MANDIRI
+# Pm kelompok 12
+
+SISTEM PERINGATAN DINI BANJIR PERKOTAAN MELALUI PEMANTAUAN ALIRAN SUNGAI
+
+Akbar Dzikrullah     24782035
+Yusuf Ferdi Ryandi   24782033
+Johannes Hutapea     24782046
+M. Farel Raditya W   24782049
+Ihsan Abdillah       24782044
